@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/bagualisson" target="blank"><img src="https://img.shields.io/twitter/follow/bagualisson?logo=twitter&style=for-the-badge" alt="bagualisson" /></a> </p>
 
-- I'm Gaúcho, I'm Bagual, I'm from Rio Grande do Sul and that's enough. [https://github.com/AlissonGrizotti](https://github.com/AlissonGrizotti)
+- I'm Gaúcho, I'm Bagual, I'm from Rio Grande do Sul and that's enough. 🇧🇷🧉
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -17,5 +17,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alissongrizotti&" alt="alissongrizotti" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alissongrizotti&show_icons=true&locale=en&layout=compact" alt="alissongrizotti" /></p>
 
