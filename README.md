@@ -19,4 +19,3 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alissongrizotti&show_icons=true&locale=en&layout=compact" alt="alissongrizotti" /></p>
 
-<p align="left"> <a href="https://github.com/AlissonGrizotti/AlissonGrizotti"><img src="https://github-profile-trophy.vercel.app/?username=alissongrizotti" alt="alissongrizotti" /></a> </p>
