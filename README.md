@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Bagualisson</h1>
+<h1 align="center">Hi 👋, I'm Alisson Grizotti The Bagual</h1>
 <h3 align="center">I am a maintainer from Brazil who loves what he does!!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alissongrizotti&label=Profile%20views&color=0e75b6&style=flat" alt="alissongrizotti" /> </p>
