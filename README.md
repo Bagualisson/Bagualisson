@@ -1,5 +1,5 @@
 <h1 align="center">Hi Tchê 🙋🏻‍♂️, I'm Alisson Grizotti The Bagual</h1>
-<h3 align="center">I'm an amateur maintainer who loves working with codes, My dream is to learn some programming languages ​​😊!!</h3>
+<h3 align="center">Hey, what are you doing here? Hmm? 😬😬</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alissongrizotti&label=Profile%20views&color=0e75b6&style=flat" alt="alissongrizotti" /> </p>
 
