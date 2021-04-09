@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/bagualisson" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="bagualisson" height="30" width="40" /></a>
+<a href="https://twitter.com/bagualisson" target="blank"><img align="center" src="https://github.com/AlissonGrizotti/AlissonGrizotti/blob/main/twitter-icone.png" alt="bagualisson" height="30" width="30" /></a>
 <a href="https://t.me/Bagualisson" target="blank"><img align="center" src="https://github.com/AlissonGrizotti/AlissonGrizotti/blob/main/telegram-icone-icon.png" alt="bagualisson" height="30" width="30" /></a>
 </p>
 
