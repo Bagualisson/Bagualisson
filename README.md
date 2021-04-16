@@ -1,7 +1,7 @@
 <h1 align="center">Hi Tchê 🙋🏻‍♂️, I'm Alisson Grizotti The Bagual</h1>
 <h3 align="center">Hey, what are you doing here? Hmm? 😬😬</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alissongrizotti&color=grey&style=flat" alt="alissongrizotti" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=alissongrizotti&color=grey&style=flat&label=PROFILE+VIEWS" alt="alissongrizotti" /> </p>
 
 - I'm Gaúcho, I'm Bagual, I'm from Rio Grande do Sul and that's enough. 🇧🇷🧉
 
