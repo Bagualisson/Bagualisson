@@ -13,6 +13,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alissongrizotti&show_icons=true&locale=en" alt="alissongrizotti" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alissongrizotti&" alt="alissongrizotti" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=AlissonGrizotti&theme=dark-smoky&hide_border=true)](https://git.io/streak-stats" alt="alissongrizotti" /></p>
 
 
