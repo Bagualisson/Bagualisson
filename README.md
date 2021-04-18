@@ -11,7 +11,7 @@
 <a href="https://t.me/Bagualisson" target="blank"><img align="center" src="https://github.com/AlissonGrizotti/AlissonGrizotti/blob/main/telegram-icone-icon.png" alt="bagualisson" height="30" width="30" /></a>
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alissongrizotti&show_icons=true&locale=en" alt="alissongrizotti" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AlissonGrizotti&theme=gotham&show_icons=true" alt="alissongrizotti" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=AlissonGrizotti&theme=dark-smoky&hide_border=true)](https://git.io/streak-stats" alt="alissongrizotti" /></p>
 
