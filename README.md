@@ -13,6 +13,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AlissonGrizotti&theme=gotham&show_icons=true" alt="alissongrizotti" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=AlissonGrizotti&theme=dark-smoky&hide_border=true)](https://git.io/streak-stats" alt="alissongrizotti" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=AlissonGrizotti&theme=dark-smoky&hide_border=true&ring=229C67&fire=229C67&sideNums=32E698&currStreakNum=32E698&sideLabels=229C67)](https://git.io/streak-stats" alt="alissongrizotti" /></p>
 
 
