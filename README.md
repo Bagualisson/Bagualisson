@@ -1,5 +1,5 @@
 <h1 align="center">Hi Tchê 🙋🏻‍♂️, I'm Alisson Grizotti The Bagual</h1>
-<h2 href="https://alissongrizotti.github.io/certificard/" align="center">AlissonGrizotti.GitHub.Io</h2>
+<a href="https://alissongrizotti.github.io/certificard" target="blank" align="center">AlissonGrizotti.GitHub.Io</a>
 <h3 align="center">Hey, what are you doing here? Hmm? 😬😬</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alissongrizotti&color=blue&style=flat&label=PROFILE+VIEWS" alt="alissongrizotti" /> </p>
