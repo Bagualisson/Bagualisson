@@ -1,5 +1,4 @@
 <h1 align="center">Hi Tchê 🙋🏻‍♂️, I'm Alisson Grizotti The Bagual</h1>
-<a href="https://alissongrizotti.github.io/certificard" target="blank" align="center">AlissonGrizotti.GitHub.Io</a>
 <h3 align="center">Hey, what are you doing here? Hmm? 😬😬</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alissongrizotti&color=blue&style=flat&label=PROFILE+VIEWS" alt="alissongrizotti" /> </p>
@@ -11,6 +10,7 @@
 <a href="https://twitter.com/bagualisson" target="blank"><img align="center" src="https://github.com/AlissonGrizotti/AlissonGrizotti/blob/main/twitter-icone.png" alt="bagualisson" height="30" width="30" /></a>
 <a href="https://t.me/Bagualisson" target="blank"><img align="center" src="https://github.com/AlissonGrizotti/AlissonGrizotti/blob/main/telegram-icone-icon.png" alt="bagualisson" height="30" width="30" /></a>
 </p>
+<a href="https://alissongrizotti.github.io/certificard" target="blank" align="center">AlissonGrizotti.GitHub.Io</a>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AlissonGrizotti&theme=gotham&show_icons=true" alt="alissongrizotti" /></p>
 
