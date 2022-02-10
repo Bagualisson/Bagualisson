@@ -11,7 +11,7 @@
 <a href="https://t.me/Bagualisson" target="blank"><img align="center" src="https://github.com/AlissonGrizotti/AlissonGrizotti/blob/main/telegram-icone-icon.png" alt="bagualisson" height="30" width="30" /></a>
 </p>
 <p>
-<a href="https://alissongrizotti.github.io/certificard" target="blank" align="center">AlissonGrizotti.GitHub.Io</a>
+
 </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AlissonGrizotti&theme=gotham&show_icons=true" alt="alissongrizotti" /></p>
