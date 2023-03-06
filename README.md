@@ -18,4 +18,8 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Bagualisson&theme=dark-smoky&ring=229C67&fire=229C67&sideNums=32E698&currStreakNum=32E698&sideLabels=229C67)](https://git.io/streak-stats" alt="bagualisson" /></p>
 
-
+<details>
+    <summary><strong><i>Spotify Recently Played<i></strong> :arrow_forward:</summary>
+    <br />
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=22pl6zeojheb64xyokwk3w5da" />
+</details>
