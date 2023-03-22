@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bagualisson&color=blue&style=flat&label=PROFILE+VIEWS" alt="bagualisson" /> </p>
 
-- I'm Gaúcho, I'm Bagual, I'm from Rio Grande do Sul and that's enough. 🇧🇷🧉
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
